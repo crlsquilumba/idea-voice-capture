@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: idea-voice-capture
+  description: Sin descripción
+  annotations:
+    github.com/project-slug: crlsquilumba/idea-voice-capture
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
